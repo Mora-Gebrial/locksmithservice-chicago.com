@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /admin/
+
+Sitemap: https://locksmithservice-chicago.com/sitemap.xml
+Sitemap: https://locksmithservice-chicago.com/blog_sitemap.xml
